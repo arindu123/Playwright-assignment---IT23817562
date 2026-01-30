@@ -1,0 +1,21 @@
+{
+  "positive": [
+    {
+      "testId": "Pos_Fun_0022",
+      "input": "mata NIC eka thiyennee.",
+      "output": "Translation not captured",
+      "passed": true,
+      "error": null,
+      "timestamp": "2026-01-30T08:02:08.897Z"
+    }
+  ],
+  "negative": [],
+  "ui": [],
+  "summary": {
+    "total": 1,
+    "passed": 1,
+    "failed": 0,
+    "startTime": "2026-01-30T08:01:38.634Z",
+    "endTime": "2026-01-30T08:02:08.929Z"
+  }
+}

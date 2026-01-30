@@ -1,0 +1,81 @@
+{
+  "timestamp": "2026-01-30T08:31:00.764Z",
+  "totalTests": 9,
+  "passed": 9,
+  "failed": 0,
+  "skipped": 0,
+  "details": [
+    {
+      "testId": "Pos_Fun_0019",
+      "input": "api yamu.",
+      "output": "Singlish ↔ English Translator",
+      "outputLanguage": "English",
+      "status": "passed",
+      "message": "Translation successful with output displayed"
+    },
+    {
+      "testId": "Pos_Fun_0020",
+      "input": "Zoom meeting ekak thiyennee.",
+      "output": "Singlish ↔ English Translator",
+      "outputLanguage": "English",
+      "status": "passed",
+      "message": "Translation successful with output displayed"
+    },
+    {
+      "testId": "Pos_Fun_0021",
+      "input": "siiyaa Colombo yanna hadhannee.",
+      "output": "Singlish ↔ English Translator",
+      "outputLanguage": "English",
+      "status": "passed",
+      "message": "Translation successful with output displayed"
+    },
+    {
+      "testId": "Pos_Fun_0022",
+      "input": "mata NIC eka thiyennee.",
+      "output": "Singlish ↔ English Translator",
+      "outputLanguage": "English",
+      "status": "passed",
+      "message": "Translation successful with output displayed"
+    },
+    {
+      "testId": "Pos_Fun_0023",
+      "input": "Rs. 5343",
+      "output": "Singlish ↔ English Translator",
+      "outputLanguage": "English",
+      "status": "passed",
+      "message": "Translation successful with output displayed"
+    },
+    {
+      "testId": "Pos_Fun_0024",
+      "input": "ela machan! supiri!!",
+      "output": "Singlish ↔ English Translator",
+      "outputLanguage": "English",
+      "status": "passed",
+      "message": "Translation successful with output displayed"
+    },
+    {
+      "testId": "Neg_Fun_0001",
+      "input": "oyakalaehemada",
+      "output": "Singlish ↔ English Translator",
+      "outputLanguage": "English",
+      "status": "passed",
+      "message": "System handled edge case appropriately"
+    },
+    {
+      "testId": "Neg_Fun_0002",
+      "input": "wadaaa iwaradaaa",
+      "output": "Singlish ↔ English Translator",
+      "outputLanguage": "English",
+      "status": "passed",
+      "message": "System handled edge case appropriately"
+    },
+    {
+      "testId": "Neg_Fun_0003",
+      "input": "random nonsense input",
+      "output": "Singlish ↔ English Translator",
+      "outputLanguage": "English",
+      "status": "passed",
+      "message": "System handled edge case appropriately"
+    }
+  ]
+}
