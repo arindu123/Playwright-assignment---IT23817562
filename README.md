@@ -126,7 +126,10 @@ The main test script iterates through these cases and performs automated validat
 ## Author
 
 **Student Name:** Arindu Semal
+
 **Registration Number:** IT23817562
+
 **Module Code: IT3040 –** IT Project Management
+
 **Institution:** Sri Lanka Institute of Information Technology (SLIIT)
 
